@@ -1,3 +1,3 @@
-<h1> Profile Card </h1>
+<h1 align="center"> Profile Card </h1>
 
 <img src="output.png">
